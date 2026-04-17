@@ -11,7 +11,7 @@ export default function SiteFooter() {
               <Logo light />
             </div>
             <p className="max-w-md text-sm leading-7 text-slate-300">
-              Entreprise multisectorielle spécialisée dans le BTP, le négoce, la représentation, la distribution de dispositifs médicaux, l'ingénierie, l'exploitation fluviale, les nouvelles technologies, la digitalisation, l’intelligence artificielle et la cybersécurité.
+              Entreprise multisectorielle spécialisée dans le BTP, le négoce, la représentation, la distribution de dispositifs médicaux, l’ingénierie, l’exploitation fluviale, les nouvelles technologies, la digitalisation, l’intelligence artificielle et la cybersécurité.
             </p>
           </div>
           <div>
